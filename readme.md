@@ -9,16 +9,17 @@
 
 2. init.bat에서 다음 순서에 맞게 작성하시면 됩니다.
 
-  git init
+```
+git init
   
-  git add .
+git add .
   
-  git remote add origin {your repository url}
+git remote add origin {your repository url}
   
-  git commit -m {"your message"}
+git commit -m {"your message"}
 
-  git branch -M {your branch name}
+git branch -M {your branch name}
 
-  git push -u origin {your branch name}
-
+git push -u origin {your branch name}
+```
 
