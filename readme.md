@@ -23,3 +23,4 @@ git branch -M {your branch name}
 git push -u origin {your branch name}
 ```
 
+3. 작성한 init.bat을 다시 실행합니다.
